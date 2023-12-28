@@ -1,0 +1,1 @@
+classificar_pessoa(daniel, 18).
